@@ -1,6 +1,6 @@
 {
   "name": "mayu-js",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Javascript Wrapper for Eiomi Api",
   "main": "src/index.js",
   "scripts": {
