@@ -1,0 +1,35 @@
+{
+  "name": "mayu-js",
+  "version": "1.2.4",
+  "description": "Javascript Wrapper for Eiomi Api",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eiomi-api",
+    "mayu-js",
+    "images",
+    "anime",
+    "anime-gif",
+    "discord"
+  ],
+  "homepage": "https://js.eiomibot.xyz/",
+  "author": "ShyShx",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.7",
+    "node-superfetch": "^0.2.3"
+  },
+  "devDependencies": {
+    "@discordjs/docgen": "^0.11.1",
+    "common-tags": "^1.8.2",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.20.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "typescript": "^4.7.4"
+  }
+}
