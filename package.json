@@ -7,6 +7,10 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShyShx/mayu-js.git"
+  },
   "keywords": [
     "eiomi-api",
     "mayu-js",
@@ -18,6 +22,9 @@
   "homepage": "https://js.eiomibot.xyz/",
   "author": "ShyShx",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShyShx/mayu-js/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "node-fetch": "^2.6.7",
