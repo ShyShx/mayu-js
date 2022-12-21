@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const chalk = require('chalk');
 
 async function checker(version) {
     let checkArray = await fetch(`https://registry.npmjs.org/mayu-js`);
