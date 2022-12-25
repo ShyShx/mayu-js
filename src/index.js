@@ -7,7 +7,7 @@ const checker = require('../src/function/versionchecker')
 checker(version)
 
 /**
-* Weeby-JS - The official JavaScript wrapper for Weeby API, developed by NTM Development. Click [here](https://weebyapi.xyz/) for the website.
+* Mayu-JS - Javascript Wrapper for Eiomi Api
 * @class Client
 */
 class MayuApi {
